@@ -1,4 +1,4 @@
-public class Enemy{
+class Enemy{
   int fullHP;
   int attack;
   int defend;
