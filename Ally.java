@@ -1,5 +1,6 @@
 class Ally{
-  int fullHP;
+  int maxHP;
+  int currentHP;
   int attack;
   int defend;
   int speed;
