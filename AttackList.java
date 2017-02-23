@@ -5,7 +5,7 @@ public string findAttack(int attackNumber){
         switch (AttackNumber) {
             case 1:  attackName = "January Breeze";
                      break;
-            default: monthString = "Invalid attack";
+            default: attackName = "Invalid attack";
                      break;
 }
 }
