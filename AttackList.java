@@ -2,7 +2,6 @@ public class AttackList { // needs "public" access modifier
 
 	public String findAttack(int attackNumber){ // "String" is capitalized because it's not a primitive type
 		
-		attackNumber = 8; // you already defined it as an int in the argument above
 		String attackName;
 		
 		switch (attackNumber) {
