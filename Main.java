@@ -4,6 +4,6 @@ public void battle(Ally ally,Enemy enemy){
   for(enemy.currentHP = enemy.maxHP, enemy.currentHP = 0 | ally.currentHP = 0,)  
   }
 public static void main(String[] args) {
-    
+    battle(Susumu,blob)
   }
 }
