@@ -14,7 +14,7 @@ public class Unit{
 		attack = inAttack;
 		defend = inDefend;
 		speed = inSpeed;
-		attackList = inAttackList.lol
+		attackList = inAttackList.clone();
 		
 	}
 	
